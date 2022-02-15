@@ -1,0 +1,9 @@
+td{
+    padding: 30px 50px;
+   font-size: 30px;
+}
+
+td:hover{
+    background-color: aqua;
+    transition: 25;
+}
